@@ -14,4 +14,3 @@ for line in f:
             else:
                 szolista[kifejezes]=[folytatas]
             kifejezesek.pop(0)
-print(len(szolista))
